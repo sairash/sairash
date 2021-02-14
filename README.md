@@ -10,7 +10,7 @@
 :man_technologist: I'm currently working with Laravel and Python.<br>
 📐 I love digital media design.<br>
 💬 Ask me about anything, I am happy to help.<br>
-💝 I'm a <a href="https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain">free software & public domain evangelist.</a>
+💝 I'm a <a href="https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain">free software & public domain evangelist.</a><br>
 :shipit: Other things I do: Play Tambourine Epicly, and be an epic FloorGang.<br>
 
 
