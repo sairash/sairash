@@ -25,7 +25,7 @@
 
 <details>
 	<summary>I'm Feeling Lucky (click)</summary>
-	<b><i>Meet My Fable Town's citizens!</i></b> :rainbow:
+	<b><i>Meet My Fable Town's King!</i></b> :rainbow:
 	<img src="https://i.ibb.co/wpjXtGb/my-Fable-Town.png">
 </details>
 
