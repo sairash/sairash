@@ -4,14 +4,14 @@
 	<img width=280 align="right" src='https://thumbs.gfycat.com/GleamingDisgustingFinch-size_restricted.gif' align='left'>
 </a>
 
-:sunglasses:  I'm Sairash (not Cyrus), a high school senior at <a href="https://deerwalk.edu.np/DSS-Plus2/">@Deerwalk  </a>.  
-:desktop_computer: I'm aspiring to a career in **Graphics or Programming field**.  
-:neutral_face: I have a **love/hate** relationship with **Programming**.
-:man_technologist: I'm currently working with Laravel and Python.
-📐 I love digital media design.
-💬 Ask me about anything, I am happy to help.
+:sunglasses:  I'm Sairash (not Cyrus), a high school senior at <a href="https://deerwalk.edu.np/DSS-Plus2/">@Deerwalk  </a>.<br>
+:desktop_computer: I'm aspiring to a career in **Graphics or Programming field**.<br>
+:neutral_face: I have a **love/hate** relationship with **Programming**.<br>
+:man_technologist: I'm currently working with Laravel and Python.<br>
+📐 I love digital media design.<br>
+💬 Ask me about anything, I am happy to help.<br>
 💝 I'm a <a href="https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain">free software & public domain evangelist.</a>
-:shipit: Other things I do: Play Tambourine Epicly, and be an epic FloorGang.
+:shipit: Other things I do: Play Tambourine Epicly, and be an epic FloorGang.<br>
 
 
 
