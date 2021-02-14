@@ -1,6 +1,6 @@
+<div align="center">
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/sairash">Sairash</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
-<div align="center">
 <a href="https://twitter.com/DylnTweet" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.facebook.com/cyrus.gautam.9/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </div>
 
