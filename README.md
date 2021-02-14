@@ -1,23 +1,34 @@
-<div align="center">
-<a href="https://twitter.com/DylnTweet" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.facebook.com/cyrus.gautam.9/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</div>
+# Hi there :wave:
 
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/sairash">Sairash</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
-</h1>
-<img src='https://thumbs.gfycat.com/GleamingDisgustingFinch-size_restricted.gif' align='left'>
+<a href="https://www.gnu.org">
+  <img width=280 align="right" src='https://thumbs.gfycat.com/GleamingDisgustingFinch-size_restricted.gif' align='left'>
+</a>
+
+😎 I'm Sairash (not Cyrus), a high school senior at <a href="https://deerwalk.edu.np/DSS-Plus2/">@Deerwalk  </a>.
+🖥️ I'm aspiring to a career in Graphics or Programming field.
+:neutral_face: I have a **love/hate** relationship with **Programming**.
+:man_technologist: I'm currently working with Laravel and Python.
+📐 I love digital media design.
+💬 Ask me about anything, I am happy to help.
+💝 I'm a <a href="https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain">free software & public domain evangelist.</a>
+:shipit: Other things I do: Play Tambourine Epicly, and be an epic FloorGang.
+
+
+<a href="https://twitter.com/DylnTweet" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.facebook.com/cyrus.gautam.9/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+
+<p></p>
+
+<details>
+	<summary>I'm Feeling Lucky (click)</summary>
+	<b><i>Meet Beefy Miracle!</i></b> :rainbow:
+	<img src="img/beefy_universe.jpg">
+</details>
+
+
 
 ###
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
-- 🔭 I’m currently working on  **Competitive Programming**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently learning **Bash Scripting language**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionaly I do participate in **Hackathons**
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
+
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
