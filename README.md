@@ -40,18 +40,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sairash)
 
 
-<details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sairash&repo=Machine-Learning&show_owner=true" />
-</a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sairash&repo=Deep-Learning&show_owner=true" />
-</a>
-</p>
-</details>
-
 
 
