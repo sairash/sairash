@@ -30,4 +30,28 @@
 </details>
 
 
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairash&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairash&theme=default&line_height=27&layout=compact" />
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=sairash)
+
+
+<details>
+<summary> 💥 Working on </summary>
+<br>
+<p align="center">
+<a href="https://github.com/Defcon27/Machine-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sairash&repo=Machine-Learning&show_owner=true" />
+</a>&ensp;
+<a href="https://github.com/Defcon27/Deep-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sairash&repo=Deep-Learning&show_owner=true" />
+</a>
+</p>
+</details>
+
+
 
