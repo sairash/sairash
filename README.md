@@ -1,9 +1,10 @@
-<div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/sairash">Sairash</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h1>
 <div align="center">
-<a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/DylnTweet" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.facebook.com/cyrus.gautam.9/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </div>
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://thumbs.gfycat.com/GleamingDisgustingFinch-size_restricted.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
@@ -192,6 +193,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!-- end dynamic spotify spngs API -->
 
 <!-- start footer section -->
-<script>alert('Hello!')</script>
 ****
 [![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
