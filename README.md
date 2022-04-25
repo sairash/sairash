@@ -18,7 +18,7 @@
 
 
 
-<a href="#" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.facebook.com/cyrus.gautam.9/" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/cyrus.gautam" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="#" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="#" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/cyrus.gautam" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 
 <p></p>
