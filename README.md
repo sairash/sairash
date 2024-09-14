@@ -3,7 +3,7 @@
 ### 👉 [Visit my self-hosted git server](https://git.sairashgautam.com.np/explore/repos)
 
 <a href="https://www.gnu.org">
-	<img width=280 align="right" src='https://thumbs.gfycat.com/GleamingDisgustingFinch-size_restricted.gif' align='left'>
+	<img width=280 align="right" src='https://github.com/user-attachments/assets/b9e54931-fc7b-4506-a895-27e6448bf038' align='left'>
 </a>
 
 :sunglasses:  I'm Sairash (pronounced Cyrus), my second account <a href="https://github.com/boythatcodes">@boythatcodes</a>.<br>
