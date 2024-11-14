@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-### 👉 [Visit my self-hosted git server](https://git.sairashgautam.com.np/explore/repos)
+### 👉 [Visit my website](https://sairashgautam.com.np/)
 
 <a href="https://www.gnu.org">
 	<img width=280 align="right" src='https://github.com/user-attachments/assets/b9e54931-fc7b-4506-a895-27e6448bf038' align='left'>
