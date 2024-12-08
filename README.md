@@ -26,18 +26,20 @@
 <p></p>
 
 <details>
-	<summary>I'm Feeling Lucky (click)</summary>
+	<summary>My Illustration Skills 8 years ago [2017] (click)</summary>
 	<b><i>Meet My Fable Town's King!</i></b> :rainbow:
 	<img src="https://i.ibb.co/wpjXtGb/my-Fable-Town.png">
 </details>
 
+<h3 align="left">📝 Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
 
 ### 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairash&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairash&theme=default&line_height=27&layout=compact" />
-</p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairash&show_icons=true&locale=en&layout=compact" alt="sairash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairash&" alt="sairash" /></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sairash)
 
