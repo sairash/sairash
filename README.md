@@ -1,4 +1,6 @@
 # Hi there :wave:
+[![committers.top badge](https://user-badge.committers.top/nepal/sairash.svg)](https://user-badge.committers.top/nepal/sairash)
+![Profile Views](https://komarev.com/ghpvc/?username=sairash)
 
 ### 👉 [Visit my website](https://sairashgautam.com.np/)
 
@@ -40,8 +42,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairash&show_icons=true&locale=en&layout=compact" alt="sairash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairash&" alt="sairash" /></p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sairash)
 
 
 
