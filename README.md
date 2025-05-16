@@ -2,7 +2,7 @@
 [![committers.top badge](https://user-badge.committers.top/nepal/sairash.svg)](https://user-badge.committers.top/nepal/sairash) &nbsp;&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=sairash)
 
-### 👉 [Visit my website](https://sairashgautam.com.np/)
+### 👉 [https://sairashgautam.com.np/](https://sairashgautam.com.np/)
 
 <a href="https://www.gnu.org">
 	<img width=280 align="right" src='https://github.com/user-attachments/assets/b9e54931-fc7b-4506-a895-27e6448bf038' align='left'>
@@ -16,13 +16,6 @@
 💬 Ask me about anything, I am happy to help.<br>
 💝 I'm a <a href="https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain">free software & public domain evangelist.</a><br>
 :shipit: Other things I do: Play Tambourine Epicly, and be an epic FloorGang.<br>
-
-
-
-
-
-
-<a href="#" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="#" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a href="https://www.instagram.com/cyrus.gautam" target="_blank" rel="nofollow"><img align="right" alt="Sairash's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 
 <p></p>
